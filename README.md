@@ -24,6 +24,18 @@
 
 ## Issues I ran into and how I solved them
 
-_Add notes here as you hit problems during setup or later work—for example, extension login errors, Git authentication, or merge conflicts—and the fix that worked for you._
+### Cursor IDE and extensions
 
-- **Initial setup:** No blocking issues during the steps above. Update this section when something comes up.
+Cursor IDE was new to me, so I spent time exploring the interface to understand how it works. I used YouTube tutorials to learn how to install and sign into extensions such as Claude Code and Codex.
+
+### GitHub and README
+
+GitHub was also new to me, so I followed online tutorials to learn how to create a repository and set up a README file.
+
+### Opening the repository in Cursor
+
+I also had difficulty opening the GitHub repository directly in Cursor. After some trial and error, I used GitHub Desktop as a workaround to clone and manage the repository locally, following tutorials to successfully connect it to Cursor.
+
+### What helped overall
+
+Overall, most of the challenges I faced came from not being familiar with the tools at the start. I worked through them by exploring, experimenting, and following YouTube tutorials. With the help of online resources, I was able to figure things out step by step, and I’ve realized that with enough patience and guidance, you can learn almost anything online.
